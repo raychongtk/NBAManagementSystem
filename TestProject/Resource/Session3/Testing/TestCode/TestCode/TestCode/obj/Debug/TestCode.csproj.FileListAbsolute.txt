@@ -1,0 +1,21 @@
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Code\bin\Debug\Test2Code.exe.config
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Code\bin\Debug\Test2Code.exe
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Code\bin\Debug\Test2Code.pdb
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Code\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Code\obj\Debug\Test2Code.NextDay.resources
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Code\obj\Debug\Test2Code.Properties.Resources.resources
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Code\obj\Debug\TestCode.csproj.GenerateResource.Cache
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Code\obj\Debug\Test2Code.exe
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Code\obj\Debug\Test2Code.pdb
+C:\Users\ItSoftware\Desktop\刘老师发送过来的软件测试\Test2\Test2\TestCode\TestCode\bin\Debug\Test2Code.exe.config
+C:\Users\ItSoftware\Desktop\刘老师发送过来的软件测试\Test2\Test2\TestCode\TestCode\obj\Debug\Test2Code.exe
+C:\Users\ItSoftware\Desktop\刘老师发送过来的软件测试\Test2\Test2\TestCode\TestCode\obj\Debug\Test2Code.pdb
+C:\Users\tirak\Desktop\Задание для подготовки\Resource\Session3\Testing\TestCode\TestCode\TestCode\bin\Debug\Test2Code.exe.config
+C:\Users\tirak\Desktop\Задание для подготовки\Resource\Session3\Testing\TestCode\TestCode\TestCode\bin\Debug\Test2Code.exe
+C:\Users\tirak\Desktop\Задание для подготовки\Resource\Session3\Testing\TestCode\TestCode\TestCode\bin\Debug\Test2Code.pdb
+C:\Users\tirak\Desktop\Задание для подготовки\Resource\Session3\Testing\TestCode\TestCode\TestCode\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
+C:\Users\tirak\Desktop\Задание для подготовки\Resource\Session3\Testing\TestCode\TestCode\TestCode\obj\Debug\Test2Code.NextDay.resources
+C:\Users\tirak\Desktop\Задание для подготовки\Resource\Session3\Testing\TestCode\TestCode\TestCode\obj\Debug\Test2Code.Properties.Resources.resources
+C:\Users\tirak\Desktop\Задание для подготовки\Resource\Session3\Testing\TestCode\TestCode\TestCode\obj\Debug\TestCode.csproj.GenerateResource.Cache
+C:\Users\tirak\Desktop\Задание для подготовки\Resource\Session3\Testing\TestCode\TestCode\TestCode\obj\Debug\Test2Code.exe
+C:\Users\tirak\Desktop\Задание для подготовки\Resource\Session3\Testing\TestCode\TestCode\TestCode\obj\Debug\Test2Code.pdb

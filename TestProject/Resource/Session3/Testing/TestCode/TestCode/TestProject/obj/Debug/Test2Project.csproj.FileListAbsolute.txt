@@ -1,0 +1,16 @@
+E:\WorldSkills2017\学生练习项目（不断完善）\考核项目\（20170423）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\obj\Debug\Test2Project.csprojResolveAssemblyReference.cache
+E:\WorldSkills2017\学生练习项目（不断完善）\考核项目\（20170423）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Project.dll
+E:\WorldSkills2017\学生练习项目（不断完善）\考核项目\（20170423）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Project.pdb
+E:\WorldSkills2017\学生练习项目（不断完善）\考核项目\（20170423）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\WorldSkills2017\学生练习项目（不断完善）\考核项目\（20170423）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Code.exe
+E:\WorldSkills2017\学生练习项目（不断完善）\考核项目\（20170423）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Code.pdb
+E:\WorldSkills2017\学生练习项目（不断完善）\考核项目\（20170423）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\obj\Debug\Test2Project.dll
+E:\WorldSkills2017\学生练习项目（不断完善）\考核项目\（20170423）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\obj\Debug\Test2Project.pdb
+F:\（20170427）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Project.dll
+F:\（20170427）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Project.pdb
+F:\（20170427）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\（20170427）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Code.exe
+F:\（20170427）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Code.pdb
+F:\（20170427）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\obj\Debug\Test2Project.csprojResolveAssemblyReference.cache
+F:\（20170427）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\obj\Debug\Test2Project.dll
+F:\（20170427）2017年国际技能比赛_NBA管理系统\Resource\Session4\Test2\Test2Code\Test2Project\obj\Debug\Test2Project.pdb

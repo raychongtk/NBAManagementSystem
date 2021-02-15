@@ -1,0 +1,15 @@
+E:\C#工程文件夹\Test-NextDay\Test-NextDay\bin\Debug\Test-NextDay.exe.config
+E:\C#工程文件夹\Test-NextDay\Test-NextDay\obj\Debug\Test_NextDay.NextDay.resources
+E:\C#工程文件夹\Test-NextDay\Test-NextDay\obj\Debug\Test_NextDay.Properties.Resources.resources
+E:\C#工程文件夹\Test-NextDay\Test-NextDay\obj\Debug\Test-NextDay.csproj.GenerateResource.Cache
+E:\C#工程文件夹\Test-NextDay\Test-NextDay\bin\Debug\Test-NextDay.exe
+E:\C#工程文件夹\Test-NextDay\Test-NextDay\bin\Debug\Test-NextDay.pdb
+E:\C#工程文件夹\Test-NextDay\Test-NextDay\obj\Debug\Test-NextDay.exe
+E:\C#工程文件夹\Test-NextDay\Test-NextDay\obj\Debug\Test-NextDay.pdb
+E:\C#工程文件夹\Test-NextDay\Test-NextDay\obj\Debug\Test-NextDay.csprojResolveAssemblyReference.cache
+E:\商务软件解决方案项目组工作\第44届世界技能大赛国家集训基地工作\日常训练工作\软件测试案例\Test-NextDay\Test-NextDay\Test-NextDay\bin\Debug\Test-NextDay.exe.config
+E:\商务软件解决方案项目组工作\第44届世界技能大赛国家集训基地工作\日常训练工作\软件测试案例\Test-NextDay\Test-NextDay\Test-NextDay\obj\Debug\Test-NextDay.exe
+E:\商务软件解决方案项目组工作\第44届世界技能大赛国家集训基地工作\日常训练工作\软件测试案例\Test-NextDay\Test-NextDay\Test-NextDay\obj\Debug\Test-NextDay.pdb
+C:\Users\ITSoftware\Desktop\Test-NextDay\Test-NextDay\Test-NextDay\Test-NextDay\bin\Debug\Test-NextDay.exe.config
+C:\Users\ITSoftware\Desktop\Test-NextDay\Test-NextDay\Test-NextDay\Test-NextDay\obj\Debug\Test-NextDay.exe
+C:\Users\ITSoftware\Desktop\Test-NextDay\Test-NextDay\Test-NextDay\Test-NextDay\obj\Debug\Test-NextDay.pdb

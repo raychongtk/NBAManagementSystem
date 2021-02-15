@@ -1,0 +1,8 @@
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Project.dll
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Project.pdb
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Code.exe
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Project\bin\Debug\Test2Code.pdb
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Project\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Project\obj\Debug\Test2Project.dll
+C:\Users\ITSoftware\Desktop\苏州国际技能大赛\苏州国际技能大赛试题\Resource\Session4\Test2\Test2Code\Test2Project\obj\Debug\Test2Project.pdb
